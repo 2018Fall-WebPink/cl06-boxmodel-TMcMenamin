@@ -1,0 +1,37 @@
+/*
+* Tess McMenamin
+* October 5th 
+* Box Model   
+*/
+
+/* The universal selector */ 
+
+*{ 
+    margin: 0;
+        padding: 0;
+}
+
+/* Body attributes here */ 
+
+
+
+body { 
+    border:2px dashed darkblue;
+    margin:10px;
+    padding:5px;
+    }
+main {
+    border:2px solid aqua;
+    margin:10px;
+    padding:5px;
+}
+h1 {
+    border:2px dashed black;
+    margin:10px,5px, 10px, 5px; 
+    padding:5px;
+}
+p {
+    border: 2px dashed aquamarine; 
+    margin:10px;
+    padding:5px;     
+}
